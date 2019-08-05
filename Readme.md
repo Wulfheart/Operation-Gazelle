@@ -18,10 +18,9 @@ Dafür werden folgende Bedingungen als eine Art grobes Lastenheft definiert:
   - 1+1 Ventil für Sträucher
   - 2+1 Ventile für langes Beet
 - Sensoren:
-  - Regensensor
-  - Temperatursensor (Redundanz! -> 2)
-  - Feuchtigkeitssensoren an verschiedenen Stellen 
-    - 3 Rasen
+  - Regensensor (digital)
+  - Temperatursensor (Redundanz! -> 2) (analog)
+  - Feuchtigkeitssensoren an verschiedenen Stellen (analog) (vorerst nur einen für den Rasen)
   - Sensor zur Füllstandsmessung Zisterne
 - Funktionen:
   - Kein Gießen bei Regen und einer Stunde danach
