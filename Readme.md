@@ -12,8 +12,8 @@ Dafür werden folgende Bedingungen als eine Art grobes Lastenheft definiert:
 
 - Einzelnes Ansteuern der einzelnen Ventile
 - 3+1 Ventile für den Rasen 
-- 2+1 Ventile für das Hochbeet (Verschiedene Bewässerungsarten der einzelnen Pflanzenarten)
 - Erweiterungsventile (vorerst nicht in Planung einezogen):
+  - 2+1 Ventile für das Hochbeet (Verschiedene Bewässerungsarten der einzelnen Pflanzenarten)
   - 2+1 Ventile für Vorgarten
   - 1+1 Ventil für Sträucher
   - 2+1 Ventile für langes Beet
@@ -21,7 +21,6 @@ Dafür werden folgende Bedingungen als eine Art grobes Lastenheft definiert:
   - Regensensor
   - Temperatursensor (Redundanz! -> 2)
   - Feuchtigkeitssensoren an verschiedenen Stellen 
-    - 2 Hochbeet
     - 3 Rasen
   - Sensor zur Füllstandsmessung Zisterne
 - Funktionen:
@@ -34,3 +33,4 @@ Dafür werden folgende Bedingungen als eine Art grobes Lastenheft definiert:
   - Ausschalten der Bewässerung für 4 Stunden
   - Dauerhaftes Entwässern (=Ausschalten) der Bewässerung
   - Bewässerung nur bei zu wenig Feuchtigkeit
+- Beachten: Erweiterbarkeit!
