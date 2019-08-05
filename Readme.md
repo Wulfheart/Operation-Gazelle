@@ -19,9 +19,9 @@ Dafür werden folgende Bedingungen als eine Art grobes Lastenheft definiert:
   - 2+1 Ventile für langes Beet
 - Sensoren:
   - Regensensor (digital)
-  - Temperatursensor (Redundanz! -> 2) (analog)
+  - Temperatursensor (Redundanz! -> 2?) (analog)
   - Feuchtigkeitssensoren an verschiedenen Stellen (analog) (vorerst nur einen für den Rasen)
-  - Sensor zur Füllstandsmessung Zisterne
+  - Sensor zur Füllstandsmessung Zisterne (analog)
 - Funktionen:
   - Kein Gießen bei Regen und einer Stunde danach
   - Entwässerung bei T > 5°C (Zwingende, allseits gültige Bedingung)
@@ -33,3 +33,7 @@ Dafür werden folgende Bedingungen als eine Art grobes Lastenheft definiert:
   - Dauerhaftes Entwässern (=Ausschalten) der Bewässerung
   - Bewässerung nur bei zu wenig Feuchtigkeit
 - Beachten: Erweiterbarkeit!
+
+## Notizen
+
+- Regensensor: Wie lange zeigt der nach dem Regen an, dass es regnet? -> Ausschaltverzögerung gangbar?
